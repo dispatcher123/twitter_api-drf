@@ -32,7 +32,7 @@ well, when everythings will be downloanded, pls write python manage.py makemigra
 Thank you. Have A Nice Day
 
 
-
+And Soon I will push Front End with VUE JS ofc ;)
 
 
 
