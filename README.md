@@ -35,9 +35,20 @@ Thank you. Have A Nice Day
 And Soon I will push Front End with VUE JS ofc ;)
 
 
+ALL URL ROUTERS
 
 
-
+admin/
+api-auth/
+api/rest-auth/
+api/rest-auth/registration/ # REgistration Page
+api/tweets/ #tweets LISTS Page
+api/tweets/pk #Tweets Details Page
+api/profiles/ # Profile Lists Page
+api/profiles/pk # Profiles Detail Page
+api/ #Api Root ( Home) Page
+api/ tweets/<int:pk>/create-comment/ # Create Comment Page
+api/ tweets/<int:pk>/like/ # Like Page
 
 
 
